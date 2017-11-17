@@ -1,26 +1,4 @@
-#mainDiv {
-    width: 80%;
-    margin: 0 auto;
-    background-color: #B7B7B7;
-}
-
-#titleDiv {
-    text-align: center;
-    padding-top: 30px;
-}
-
-#titleDiv span {
-    font-size: 50px;
-}
-
-#pictureDiv {
-    margin: 0 auto;
-}
-
-#quoteDiv {
-    text-align: center;
-}
-
+/************* Elements ******************/
 body {
     background-color: #DFDFDF;
     color: #252525;
@@ -30,3 +8,42 @@ img {
     margin: 30px auto;
     display: block;
 }
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-top: 5px;
+}
+
+/************* ID's ******************/
+
+#mainDiv {
+    background-color: #B7B7B7;
+}
+
+#titleDiv {
+    padding-top: 30px;
+}
+
+#titleDiv span {
+    font-size: 50px;
+}
+
+#quoteDiv {
+    font-size: 25px;
+}
+
+#referenceDiv {
+    text-align: left;
+}
+
+/************* Classes ******************/
+
+.centralize-h {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
