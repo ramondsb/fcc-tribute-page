@@ -1,0 +1,21 @@
+#mainDiv {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#titleDiv {
+    text-align: center;
+}
+
+#pictureDiv {
+    margin: 0 auto;
+}
+
+#quoteDiv {
+    text-align: center;
+}
+
+img {
+    margin: 30px auto;
+    display: block;
+}
