@@ -6,6 +6,11 @@
 
 #titleDiv {
     text-align: center;
+    padding-top: 30px;
+}
+
+#titleDiv span {
+    font-size: 50px;
 }
 
 #pictureDiv {
