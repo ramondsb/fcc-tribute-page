@@ -23,12 +23,18 @@ li {
     background-color: #B7B7B7;
 }
 
+
 #titleDiv {
     padding-top: 30px;
 }
 
-#titleDiv span {
+#titleSpan {
     font-size: 50px;
+}
+
+#subtitleSpan {
+    font-size: 25px;
+    display: block
 }
 
 #quoteDiv {
@@ -38,6 +44,7 @@ li {
 #referenceDiv {
     text-align: left;
 }
+
 
 /************* Classes ******************/
 
