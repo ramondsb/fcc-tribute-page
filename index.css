@@ -5,8 +5,13 @@ body {
 }
 
 img {
-    margin: 30px auto;
     display: block;
+    background-color: white;
+    border-radius: 5px;
+    border-color: #252525;
+    border: solid 1px;
+    margin: 30px auto;
+    padding: 2px;
 }
 
 ul {
@@ -21,6 +26,9 @@ li {
 
 #mainDiv {
     background-color: #B7B7B7;
+    border-radius: 10px;
+    border-color: #252525;
+    border: solid 1px;
 }
 
 
