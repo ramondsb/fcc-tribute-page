@@ -4,11 +4,6 @@ body {
     color: #252525;
 }
 
-img {
-    display: block;
-    padding: 2px;
-}
-
 ul {
     list-style-type: none;
 }
@@ -21,11 +16,10 @@ li {
 
 #mainDiv {
     background-color: #B7B7B7;
-    border-radius: 10px;
     border-color: #252525;
+    border-radius: 10px;
     border: solid 1px;
 }
-
 
 #titleDiv {
     padding-top: 30px;
@@ -38,6 +32,15 @@ li {
 #subtitleSpan {
     font-size: 25px;
     display: block
+}
+
+#frameDiv {
+    background-color: white;
+    border-color: #252525;
+    border-radius: 5px;
+    border: solid 1px;
+    display: inline-block;
+    padding: 2px;
 }
 
 #pictureDiv  {
@@ -55,14 +58,6 @@ li {
 
 #creatorDiv {
     margin: 15px auto;
-}
-
-#frameDiv {
-    display: inline-block;
-    background-color: white;
-    border-radius: 5px;
-    border-color: #252525;
-    border: solid 1px;
 }
 
 #imageAuthorDiv {
