@@ -12,6 +12,11 @@ li {
     margin-top: 5px;
 }
 
+hr {
+    width: 70%;
+    border: solid 1px;
+}
+
 /************* ID's ******************/
 
 #mainDiv {
