@@ -55,7 +55,8 @@ hr {
     margin: 15px;
 }
 
-#referenceDiv {
+#referenceSpan {
+    display: block;
     margin: 15px auto;
 }
 
