@@ -40,16 +40,13 @@ hr {
     display: block
 }
 
-#frameDiv {
+#pictureDiv {
     background-color: white;
     border-color: #252525;
     border-radius: 5px;
     border: solid 1px;
     display: inline-block;
     padding: 2px;
-}
-
-#pictureDiv  {
     margin: 10px 0;
 }
 
