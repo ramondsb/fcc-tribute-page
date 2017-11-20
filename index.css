@@ -12,6 +12,11 @@ li {
     margin-top: 5px;
 }
 
+li:before {
+    content: '\2605';
+    margin-right: 5px;
+}
+
 hr {
     width: 60%;
     border-top: solid 1px;
