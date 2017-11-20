@@ -13,8 +13,9 @@ li {
 }
 
 hr {
-    width: 70%;
-    border: solid 1px;
+    width: 60%;
+    border-top: solid 1px;
+    border-bottom: none;
 }
 
 /************* ID's ******************/
